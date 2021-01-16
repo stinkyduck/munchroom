@@ -1,1 +1,1 @@
-{"response_code":0,"results":[{"category":"Art","type":"boolean","difficulty":"easy","question":"Leonardo da Vinci&#039;s Mona Lisa does not have eyebrows.","correct_answer":"True","incorrect_answers":["False"]}]}
+{"response_code":0,"results":[{"question":"Leonardo da Vinci&#039;s Mona Lisa does not have eyebrows.","correct_answer":"True","incorrect_answers":["False"]}]}
